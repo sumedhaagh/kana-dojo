@@ -762,5 +762,10 @@
   {
     "fact": "The Japanese rail system is one of the most punctual in the world.",
     "category": "transportation"
+  },
+  {
+    "fact": "The word 'yuigahama' appears in coastal place names, referencing a long, gently sloping beach.",
+    "category": "geography"
   }
+  
 ]
